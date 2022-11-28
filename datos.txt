@@ -1,4 +1,4 @@
-Muestra	Volumen Seminal (ml)	Días de abstinencia	Concentración espermática (Millones/ml)	Movilidad Progresiva (%)	Viabilidad (%)	Fragmentación del ADN (%)
+Muestra Vol.	Abs.	Conc.	Movi.Prog.	Viab.	Fragm.ADN
 1	4	4	35	64.56	92	27	
 2	2	4	180	99.75	94	11
 3	3.5	2	54	98.33	94	4
